@@ -5,8 +5,8 @@ Lista de archivos a crear:
 - readme.md
 
 Para hacer cambios en este repositorio, debe seguir los siguientes pasos:
-1. git clone https://github.com/brayanrodbajo/EjemploDSII.git
+1. ```git clone https://github.com/brayanrodbajo/EjemploDSII.git```
 2. Hacer los cambios
-3. git add .
-4. git commit -m "comentario del cambio"
-5. git push -u origin master
+3. ```git add .```
+4. ```git commit -m "comentario del cambio"```
+5. ```git push -u origin master```
